@@ -8,14 +8,6 @@ Start out by forking and cloning this repository.
 
 **Your challenge is to complete at least FIVE (2 medium, 2 hard, 1 very hard) of the following CodeWars problems.** 
 
-Upon completing a problem, upload a screenshot of the success screen on the CodeWars website to this repository then embed it in the README.md file so it can be easily checked.
-
-To embed an image in the README.md, just add some HTML! (markdown will render some HTML)
-
-```html
-<img width="400px" src="./success-screen-1.jpg" />
-```
-
 ## Screenshots
 
 Submit your screenshots to Populi under Codewars Extravaganza as comments!
