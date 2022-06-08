@@ -1,5 +1,7 @@
 # Codewars Extravaganza
 
+https://www.codewars.com/dashboard
+
 Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
 
 Start out by forking and cloning this repository.
