@@ -16,7 +16,7 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 
 ## Screenshots
 
-```[insert your succeess screenshots here]```
+Submit your screenshots to Populi under Codewars Extravaganza as comments!
 
 ## Problems
 
