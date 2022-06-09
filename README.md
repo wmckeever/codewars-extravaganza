@@ -35,9 +35,6 @@ https://www.codewars.com/kata/54ff3102c1bad923760001f3
 
 ### Difficulty level: hard - CHOOSE 2
 
-folding your way to the moon
-https://www.codewars.com/kata/58f0ba42e89aa6158400000e
-
 sum of numbers
 https://www.codewars.com/kata/55f2b110f61eb01779000053
 
@@ -52,6 +49,9 @@ https://www.codewars.com/kata/56747fd5cb988479af000028
 
 get shortest word
 https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+
+folding your way to the moon
+https://www.codewars.com/kata/58f0ba42e89aa6158400000e
 
 ### Difficulty level: very hard - CHOOSE 1
 
