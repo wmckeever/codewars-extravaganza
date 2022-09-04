@@ -18,9 +18,6 @@ _Remember, you only need to complete ten of these_
 
 ### Difficulty level: medium - CHOOSE 2
 
-multiply
-https://www.codewars.com/kata/50654ddff44f800200000004
-
 sum of positive
 https://www.codewars.com/kata/5715eaedb436cf5606000381
 
@@ -50,9 +47,6 @@ https://www.codewars.com/kata/56747fd5cb988479af000028
 get shortest word
 https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
 
-folding your way to the moon
-https://www.codewars.com/kata/58f0ba42e89aa6158400000e
-
 ### Difficulty level: very hard - CHOOSE 1
 
 mumbling
@@ -60,9 +54,6 @@ https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
 
 pig latin
 https://www.codewars.com/kata/520b9d2ad5c005041100000f
-
-english beggars
-https://www.codewars.com/kata/59590976838112bfea0000fa
 
 ### Difficulty level: impossible - Extra Credit
 
