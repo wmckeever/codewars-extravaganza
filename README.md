@@ -14,7 +14,7 @@ Submit your screenshots to Populi under Codewars Extravaganza as comments!
 
 ## Problems
 
-_Remember, you only need to complete ten of these_
+_Remember, you only need to complete five of these_
 
 ### Difficulty level: medium - CHOOSE 2
 
